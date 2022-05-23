@@ -1,0 +1,8 @@
+title: Test
+# description:
+baseurl: "/test" # the subpath of your site, e.g. /blog
+url: "https://miron1917.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+name: "Test"
+author: Miron
+
+# Build settings
